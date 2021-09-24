@@ -5,21 +5,21 @@ This repo contains code for a command-line application to manage events (called 
 The below questions should be answered _in detail_ regarding your submission!
 
 ##### Reflect on how you determined the architecture of your application. What process did you use to determine which classes to define? #####
-> Answer goes here! (after the >, replacing this text)
+> I drew an UML class diagram of all relevant objects. I then determined object fields and methods.
 
 
 ##### Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> Answer goes here!
+> Endless amounts of MDN and TypeScript documentation.
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
-> Answer goes here!
+> 15 hours
 
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
-> Answer goes here!
+> 9
 
 
 ##### Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
-> Answer goes here!
+> I had to change the JS target to ES2016 due to using JavaScript private fields and Array.prototype.includes().
 
